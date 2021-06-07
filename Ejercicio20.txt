@@ -1,0 +1,13 @@
+Ejercicio No.20---------------------------------
+Algoritmo Capicua
+Definir num,a,b Como Entero
+Escriibir "Ingrese un Numerod e 5 digitos"
+leer num
+a= trunc(num/10000)
+b= numMOD 10
+Si a==b Entonces
+Escribir "El numero "num "es numero capicua"
+Sino 
+Escribir "El numero "num "No es numero capicua"
+FinSi
+FinAlgoritmo
