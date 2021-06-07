@@ -1,0 +1,8 @@
+Ejercicio No.2---------------------------------
+Algoritmo pais
+Escribir "ingrese Nombre del pais"
+leer pais
+Escribir "ingrese nombre de la capital"
+leer capital
+Escribir capital,"es la capital de ", pais
+fin Algoritmo
