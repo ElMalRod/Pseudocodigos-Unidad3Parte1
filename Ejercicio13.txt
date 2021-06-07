@@ -1,0 +1,13 @@
+Ejercicio No.13---------------------------------
+Algoritmo VolumenCilindro
+Escribir "Ingrese radio"
+leer r
+Escribir "ingrese altura"
+leer h
+Si r<0 y/o h<0 entonces
+V= 3.1416*(r*r)*h
+Escribir "El volumen del cilindro es " V
+SiNo
+Escribir "Alguno de los datos ingresados son negativos"
+FinSi
+Fin Algoritm
