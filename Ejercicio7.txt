@@ -1,0 +1,6 @@
+Ejercicio No.7---------------------------------
+Algoritmo NumAleatoreo2
+aletetoreo= azar(50)+10
+Escribir "El numero aleatoreo es "aleatoreo
+Escribir "El numero aleatoreo menos 15% es" aleatoreo-15%
+Fin Algoritmo
