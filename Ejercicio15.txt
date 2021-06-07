@@ -1,0 +1,11 @@
+Ejercicio No.15---------------------------------
+Algoritmo NumerosNP
+Definir num como entero
+Escribir"Ingrese el numero a definir"
+leer num
+Si num>0 Entonces
+Escribir "El numero es positvo"
+SiNo
+Escribir "El numero es negativo"
+FinSi
+Fin Algoritmo
