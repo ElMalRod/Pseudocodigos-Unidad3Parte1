@@ -1,0 +1,9 @@
+Ejercicio No.1---------------------------------
+Algoritmo Suma
+Escribir "Ingrese Numero 1"
+leer num1
+Escribir "Ingrese Numero 2"
+leer num2
+C= Num1+Num2
+Escribir "El Resultado de la suma es: ",C
+Fin Algoritmo
