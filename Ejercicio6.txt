@@ -1,0 +1,6 @@
+Ejercicio No.6---------------------------------
+Algoritmo NumAleatoreo1
+aletetoreo= azar(200)+0
+Escribir "El numero aleatoreo es "aleatoreo
+Escribir "El numero aleatoreo mas 30% es" aleatoreo+30%
+Fin Algoritmo
