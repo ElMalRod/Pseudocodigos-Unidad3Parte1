@@ -1,0 +1,13 @@
+Ejercicio No.9---------------------------------
+Algoritmo Palabras
+Definir A,B, Aux como Caracter
+Escribir "Ingrese una palabra"
+Leer A
+Escribir "Ingrese una nueva palabra"
+Leer B
+Aux=A
+A=b
+B=Aux
+Escribir "El valor 1 luego del intercambio es  "A 
+Escribir "El valor 2 luego del intercambio es  "B 
+Fin Algoritmo
