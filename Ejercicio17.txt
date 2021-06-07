@@ -1,0 +1,18 @@
+Ejercicio No.17---------------------------------
+Algoritmo Triangulo
+Escribir "Ingrese lado del triangulo"
+leer lado1
+Escribir "Ingrese lado del triangulo"
+leer lado2
+Escribir "Ingrese lado del triangulo"
+leer lado3
+Si lado1=lado2 Y lado1=lado3 Entonces
+Escribir "Es un Tringulo Equilatero"
+SiNo
+	Mientras lado1<>lado2 Y lado1<>lado3 y lado2<>lado3 Entonces
+		Escribir "Es un Triangulo Escaleno"
+SiNo
+		Mientras lado1=lado2 o lado1=lado3 o lado2=lado3 Entonces
+			Escribir "Es un Triangulo Isoceles"
+FinSi
+FinAlgoritmo
