@@ -1,0 +1,7 @@
+Ejercicio No.5---------------------------------
+Algoritmo NumeroSiguiente
+Escribir "Ingrese un numero"
+Leer Num
+sig=Num+1
+Escribir"El numero siguiente de "Num "es " sig
+Fin ALgoritmo
