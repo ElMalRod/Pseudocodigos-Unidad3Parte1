@@ -1,0 +1,7 @@
+Ejercicio No.12---------------------------------
+Algoritmo Temperatura
+Escribir "Ingrese la temperatura en Celsius"
+leer c
+F= (c*(9/5)+32)
+Escribir "La temperatura en Fahrenheit es " F
+Fin Algoritmo
