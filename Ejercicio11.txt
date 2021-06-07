@@ -1,0 +1,13 @@
+Ejercicio No.11---------------------------------
+Algoritmo Convertidor
+Escribir "Ingrese la dimencion en centimetros"
+leer c
+yarda= c/91.44
+metro=c/100
+pie=c/30.48
+pulgadas=c/2.54
+Escribir "El valor en Yarda es " yarda
+Escribir "El valor en metro es " metro
+Escribir "El valor en pies  es " pies
+Escribir "El valor en pulgadas es " pulgadas
+Fin Algoritmo
