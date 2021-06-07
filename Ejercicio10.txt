@@ -1,0 +1,12 @@
+Ejercicio No.10---------------------------------
+Algoritmo Rectangulo
+Definir a,b,p,Area como Real
+Escribir "Ingrese la base del rectangulo"
+Leer b
+Escribir "Ingrese la altura del rectangulo"
+Leer a
+p=(b*a)*2
+Area=(b*a)
+Escribir "El perimetro del rectangulo es de " p
+Escribir "El Area del rectangulo es de " Area
+FinAlgoritmo
