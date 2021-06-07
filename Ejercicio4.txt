@@ -1,0 +1,9 @@
+Ejercicio No.4---------------------------------
+Algoritmo CuadradoYCubo
+Escribir "Ingrese Numero"
+leer Num
+cuadrado= Num*Num
+Cubo= Num*Num*Num
+Escribir "El Cuadrado de "Num "es " cuadrado
+Escribir "El Cubo de "Num "es " Cubo
+Fin Algoritmo
