@@ -1,0 +1,10 @@
+Ejercicio No.18---------------------------------
+Algoritmo Cadena
+Escribir "Ingrese el numero a derminar"
+Leer Num
+
+Para i<=0 HAsta 4 Con paso 1 Hacer
+n= Subcadena(Num,i,i)
+total= total+n
+Fin Para
+Escribir "Total "total
