@@ -1,0 +1,13 @@
+Ejercicio No.14---------------------------------
+Algoritmo Divisible
+definir a,b como enteros
+Escribir "ingrese numero 1"
+leer a
+Escribir "ingrese numero 2"
+leer b
+Si a mod b==0 Entonces
+Escribir "el numero ",a,"es divisible entre ",b
+SiNo
+Escribir "el numero ",a,"no es divisible enre ",b
+FinSi
+Fin Algoritmo
