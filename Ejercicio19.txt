@@ -1,0 +1,9 @@
+Ejercicio No.19---------------------------------
+Algoritmo aza5
+N= azar(1000)+1
+Si N MOD 5=0 o N<=125 Entonces
+Escibir"CORRECTO"
+SiNO
+Escribir "Incorrecto"
+FinSi
+Fin Algoritmo
